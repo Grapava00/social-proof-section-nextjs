@@ -136,7 +136,7 @@ export default function Home() {
               </p>
             </div>
           </article>
-          <article className='card'>
+          <article className='card card-translate-one'>
             <div className='card-profile'>
               <div className='profile-image'>
                 <img
@@ -158,7 +158,7 @@ export default function Home() {
               </p>
             </div>
           </article>
-          <article className='card'>
+          <article className='card card-translate-two'>
             <div className='card-profile'>
               <div className='profile-image'>
                 <img

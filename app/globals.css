@@ -114,10 +114,19 @@ main {
   .card-container {
     display: flex;
     gap: 20px;
+    margin-top: 30px;
   }
 
   .card {
     width: 360px;
+  }
+
+  .card-translate-one {
+    transform: translateY(20px);
+  }
+
+  .card-translate-two {
+    transform: translateY(40px);
   }
 }
 
